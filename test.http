@@ -1,0 +1,7 @@
+POST http://localhost:8585/workintech/animal
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "Cat"
+}
