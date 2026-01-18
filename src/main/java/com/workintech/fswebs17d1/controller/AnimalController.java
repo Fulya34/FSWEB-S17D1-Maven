@@ -49,4 +49,5 @@ public class AnimalController {
 
     @Value("${project.developer.fullname}")
     private String developerName;
+
 }
