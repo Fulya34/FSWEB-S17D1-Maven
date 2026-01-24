@@ -1,6 +1,7 @@
 package com.workintech.fswebs17d1.entity;
 
 public class Animal {
+
     private Integer id;
     private String name;
 
@@ -27,5 +28,4 @@ public class Animal {
     public void setName(String name) {
         this.name = name;
     }
-//
 }
